@@ -1,7 +1,3 @@
-//
-// Created by xavier on 23/12/2021.
-//
-
 #include "circular_stack.h"
 
 
